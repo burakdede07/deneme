@@ -1,0 +1,5 @@
+{
+    "type": "esp32-fota-http",
+    "version": "2.5.1",
+    "url": "http://raw.githubusercontent.com/burakdede07/deneme/main/antfour.bin"
+}
